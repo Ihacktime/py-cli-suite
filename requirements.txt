@@ -1,2 +1,5 @@
+# requirements.txt
 requests==2.31.0
 cryptography==41.0.0
+click==8.1.7  # for better CLI handling
+python-dotenv==1.0.0  # for environment variables
